@@ -84,7 +84,7 @@ The company operates across multiple regions in the United States, selling a div
 ---
 
 ## Dashboards
-![Task-1]([https://github.com/user-attachments/assets/7e5335c4-27ed-4665-a7ff-267ecedebed0](https://github.com/Omar-Ahmed-Kandel/Task-1/blob/main/Screenshot%202025-08-02%20170020.png))
+![Sales Dashboard](https://github.com/Omar-Ahmed-Kandel/Task-1/blob/main/Screenshot%202025-08-02%20170020.png?raw=true)
 
 ---
 
