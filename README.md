@@ -3,14 +3,16 @@
 ## 🔹 Introduction
 This analysis is based on transactional data for a company selling office supplies, furniture, and technology products. The goal is to uncover actionable insights to improve sales strategies, customer engagement, and operational efficiency.
 
-## Table of Contents
-1. [Executive Summary](#executive-summary)
-2. [Objectives & Key Questions](#objectives--key-questions)
-3. [Data Preparation](#data-preparation)
-4. [Key Measures & KPIs](#key-measures--kpis)
-5. [Insights & Recommendations](#insights--recommendations)
-6. [Limitations](#limitations)
-7. [Next Steps & Decisions](#next-steps--decisions)
+---
+
+## 📚 Table of Contents
+1. [Executive Summary](#-executive-summary)
+2. [Objectives & Key Questions](#-objectives--key-questions)
+3. [Data Preparation](#-data-preparation)
+4. [Key Measures & KPIs](#-key-measures--kpis)
+5. [Insights & Recommendations](#-insights--recommendations)
+6. [Limitations](#-limitations)
+7. [Next Steps & Decisions](#-next-steps--decisions)
 
 ---
 
