@@ -6,15 +6,13 @@ This analysis is based on transactional data for a company selling office suppli
 ---
 
 ## 📚 Table of Contents
-1. [Executive Summary](#executive-summary)
-2. [Objectives & Key Questions](#objectives--key-questions)
-3. [Data Preparation](#data-preparation)
-4. [Key Measures & KPIs](#key-measures--kpis)
-5. [Insights & Recommendations](#insights--recommendations)
-6. [Limitations](#limitations)
-7. [Next Steps & Decisions](#next-steps--decisions)
-8. [Dashboards](#dashboards)
-9. [Dataset](#dataset)
+1. [Executive Summary](#-executive-summary)
+2. [Objectives & Key Questions](#-objectives--key-questions)
+3. [Data Preparation](#-data-preparation)
+4. [Key Measures & KPIs](#-key-measures--kpis)
+5. [Insights & Recommendations](#-insights--recommendations)
+6. [Limitations](#-limitations)
+7. [Next Steps & Decisions](#-next-steps--decisions)
 
 ---
 
@@ -87,10 +85,10 @@ The company operates across multiple regions in the United States, selling a div
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 ![Sales Dashboard](https://github.com/Omar-Ahmed-Kandel/Task-1/blob/main/Screenshot%202025-08-02%20170020.png?raw=true)
 
 ---
 
-## 📂 Dataset
-[**Download Dataset**](https://github.com/Omar-Ahmed-Kandel/Task-1/blob/main/train.csv)
+## Dataset
+<a href = "https://github.com/Omar-Ahmed-Kandel/Task-1/blob/main/train.csv">Dataset</a>
